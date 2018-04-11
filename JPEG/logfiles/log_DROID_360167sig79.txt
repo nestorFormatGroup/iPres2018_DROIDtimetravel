@@ -1,0 +1,7 @@
+DROID 6.3 No Profile mode: Runtime Information
+Selected folder or file: C:\Users\Friese Yvonne\Desktop\iPRES2018_Notes\Filesuite_iPRES_2018\JPEG_100_multiple_fmt\360167.jpg
+Binary signature file: D:\droid-binary-6.3-bin\\signature_files\\DROID_SignatureFile_V79.xml\
+Container signature file:  None
+Open archives: False
+Open web archives: False
+C:\Users\Friese Yvonne\Desktop\iPRES2018_Notes\Filesuite_iPRES_2018\JPEG_100_multiple_fmt\360167.jpg,fmt/44
